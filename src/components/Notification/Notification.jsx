@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { NotyText } from './Notification.styled';
 
 export const Noticifaciton = prosp => {

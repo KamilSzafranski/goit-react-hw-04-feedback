@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import React, { Component } from 'react';
+import React from 'react';
 import { Title, Btn } from './Feedback.styled';
 import { Fragment } from 'react';
 
