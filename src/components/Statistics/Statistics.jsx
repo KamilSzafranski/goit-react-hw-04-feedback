@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import React, { Component } from 'react';
+import React from 'react';
 import { HeaderStatistics, StatsText } from './Statistics.styled';
 import { Noticifaciton } from '../Notification/Notification';
 import { Fragment } from 'react';
